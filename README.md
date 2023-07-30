@@ -14,8 +14,7 @@ Sure, here are the steps to create an application bundle with Platypus:
 
 ```bash
 #!/bin/bash
-export HOME=$HOME
-cd "$(dirname "$0")"
+export PYTHONPATH=./env/bin/python3
 ./env/bin/python3 towel-pdf.py
 ```
 

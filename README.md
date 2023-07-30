@@ -1,3 +1,5 @@
+Merge the zips with Towel ZipSplit.
+
 Sure, here are the steps to create an application bundle with Platypus:
 
 1. **Open Platypus**: Launch the Platypus application.
